@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
+
+.header-left-spotify img {
+    height: 65px;
+    width: 142px;
+    padding: 0;
+    margin-left: 190px;
+    margin-top: 8px;
+}
+
+ul a {
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.header-right-menu {
+    list-style-type: none;
+    display: inline;
+    position: relative;
+    float: right;
+    margin: 30px;
+}
+
+.header-right-menu li {
+    display: inline;
+    margin-right: 30px;
+}
+
+#header-right-margin {
+    /*margin-right: 185px;*/
+    padding-right: 150px;
+}
+
+.main1 {
+    background-color:#1d75de;
+    color: white;
+    height: 369px;
+}
+
+.main1-1 {
+    margin-left: 190px;
+}
+
+.primh1 {
+    margin-top: 0;
+    padding-top: 77px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.primp1 {
+    font-size: 22px;
+}
+
+.botones1 {
+    padding-top: 17px;
+    padding-bottom: 40px;
+}
+
+.EMPEZAR {
+    color: white;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.882);
+    padding: 15px 32px;
+    border-radius: 30px;
+}
+
+.VERPLANES {
+    color: white;
+    border-color: white;
+    font-weight: bold;
+    background-color: #1d75de;
+    padding: 15px 32px;
+    border-radius: 30px;
+}
+
+.terminos1 a {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    color: white;
+    
+}
+
+.terminos1 {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+
+/*Empezamos a darle estilo a la segunda seccion de la pagina beneficios*/
+
+.container {
+    width: 100%;
+    height: 500px;
+    background-color: #efefef;
+}
+
+.beneficios {
+    text-align: center;
+    margin: 0;
+}
+
+.nav-mid-section {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+/*.nav-mid-section .pic {
+    display: inline-block;
+    width: 250px;
+ }*/
+
+.pic {
+    text-align: center;
+    display: inline-block;
+    width: 250px;
+
+}
+
+.pic img {
+    width: 142px;
+    height: 142px;
+}
